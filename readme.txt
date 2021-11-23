@@ -4,4 +4,4 @@ git has a mutable index called stage
 git tracks changes
 Creating a new branch is quick
 creating a new branch is quick and simple
-this is bug
+this is not bug
